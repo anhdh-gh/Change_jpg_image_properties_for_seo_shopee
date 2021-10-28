@@ -108,7 +108,7 @@ public class JpgImageFileUtils {
         for(int i = 1 ; i < words.length-1 ; i++) {
             res += "-" + words[i];
         }
-        return res + "-" + words[words.length-1].substring(0, words.length - 4);
+        return res + "-" + words[words.length-1].substring(0, words[words.length-1].length() - 4);
     }
     
     private static String fomatTag(String fileName) {
