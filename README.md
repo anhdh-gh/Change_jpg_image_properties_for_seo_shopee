@@ -5,6 +5,12 @@
 - Java Multi Thread
 - FIle IO
 
+## Hướng dẫn sử dụng
+- Tải xuống ứng dụng: https://github.com/anhdh-gh/Change_jpg_image_properties_for_seo_shopee/releases/download/image/Releases.rar
+- Giải nén:
+  - Cài đặt JDK 8
+  - Run file: Releases\dist\Change_jpg_image_properties.jar
+
 ## Hình ảnh preview
 <p align="center">
   <img src="https://user-images.githubusercontent.com/79781308/173051517-fb73d846-d44e-4c91-87c6-8aa2fceb664e.png" />
