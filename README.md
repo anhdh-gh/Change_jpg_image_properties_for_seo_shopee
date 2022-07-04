@@ -6,7 +6,8 @@
 - FIle IO
 
 ## Hướng dẫn sử dụng
-- Tải xuống ứng dụng: https://github.com/anhdh-gh/Change_jpg_image_properties_for_seo_shopee/releases/download/image/Releases.rar
+- Download [JDK 8](https://www.oracle.com/java/technologies/downloads/#java8) (nếu chưa có)
+- Tải xuống [ứng dụng](https://github.com/anhdh-gh/Change_jpg_image_properties_for_seo_shopee/releases/tag/image) (file Releases.rar)
 - Giải nén:
   - Cài đặt JDK 8
   - Run file: Releases\dist\Change_jpg_image_properties.jar
